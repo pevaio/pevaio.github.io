@@ -4,7 +4,7 @@ body {
     padding: 20px;
     max-width: 720px;
     text-align: left;
-    background-color: #fff;
+    background-color: #00B3B9;
     word-wrap: break-word;
     overflow-wrap: break-word;
     line-height: 1.5;
@@ -36,7 +36,7 @@ b {
 }
 
 a {
-    color: #ffffff;
+    color: ##00B3B9;
     cursor: pointer;
     text-decoration: none;
 }
@@ -295,7 +295,7 @@ ul.discover-posts li small a {
     }
 
     a {
-        color: #ffffff;
+        color: ##00B3B9;
     }
 
     code {
