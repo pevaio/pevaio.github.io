@@ -1,7 +1,7 @@
 ###########
 # site.title
 
-title: Pevaio Space
+title: Pevaio Place
 description: My home on the internet.
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://pevaio.github.io" # the base hostname & protocol for your site
