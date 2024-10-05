@@ -2,7 +2,7 @@
 # site.title
 
 title: pevaio
-description: a blog about stuff i find interesting
+description: A blog about stuff I find interesting.
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://pevaio.github.io" # the base hostname & protocol for your site
 # host: 0.0.0.0
