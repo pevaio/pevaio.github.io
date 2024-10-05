@@ -143,8 +143,8 @@ img {
 code {
     font-family: monospace;
     padding: 2px;
-    background-color: #00B3B9;
-    color: #000;
+    background-color: #000;
+    color: #00B3B9;
     border-radius: 3px;
 }
 
