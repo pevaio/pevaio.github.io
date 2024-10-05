@@ -36,7 +36,7 @@ b {
 }
 
 a {
-    color: #3273dc;
+    color: #ffffff;
     cursor: pointer;
     text-decoration: none;
 }
@@ -242,7 +242,7 @@ ul.blog-posts li span {
 }
 
 ul.blog-posts li a:visited {
-    color: #8b6fcb;
+    color: #ADADAD;
 }
 
 /* discovery feed */
@@ -261,7 +261,7 @@ ul.discover-posts li span {
 }
 
 ul.discover-posts li a:visited {
-    color: #8b6fcb;
+    color: #ADADAD;
 }
 
 ul.discover-posts li div {
@@ -279,7 +279,7 @@ ul.discover-posts li small a {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #01242e;
+        background-color: #000000;
         color: #ddd;
     }
 
@@ -295,7 +295,7 @@ ul.discover-posts li small a {
     }
 
     a {
-        color: #8cc2dd;
+        color: #ffffff;
     }
 
     code {
