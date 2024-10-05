@@ -46,7 +46,7 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: America/Sao_Paulo
 future: false
 
 exclude:
@@ -59,7 +59,6 @@ Blog: /blog
 
 # Add general links to site pages here
 links:
-  Resume: /assets/resume.pdf
   
 
 # Add links for more focus here
