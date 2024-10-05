@@ -5,4 +5,12 @@ layout: post
 tags: [general]
 ---
 
-Hello World!
+This is the start of my blog.
+
+Here I plan to write about me and things that I enjoy, mostly:
+- Languages
+- Geopolitics
+- Gaming
+- Coding
+
+ Thank you for checking it out!
