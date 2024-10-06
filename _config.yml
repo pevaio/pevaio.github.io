@@ -57,6 +57,7 @@ future: false
 exclude:
 - vendor
 Blog: "/blog"
-links: 
+links:
+  NiceSites: "/nicesites"
 special_links:
   Search: https://ecosia.org
