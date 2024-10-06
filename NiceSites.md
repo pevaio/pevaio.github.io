@@ -13,4 +13,4 @@ Here are some sites I find nice and worth sharing. More will be added soon.
 ### Games
 - [NationStates](https://nationstates.net)
 - [Minesweeper.Online](https://minesweeper.online)
-- [DOS Zone](https>://dos.zone)
+- [DOS Zone](https://dos.zone)
