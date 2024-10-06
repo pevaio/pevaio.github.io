@@ -7,10 +7,10 @@ layout: page
 Here are some sites I find nice and worth sharing. More will be added soon.
 
 ### Language Studying
-- [Memrise](community-courses.memrise.com/dashboard)
-- [Duolingo](duolingo.com)
+- [Memrise](https://community-courses.memrise.com/dashboard)
+- [Duolingo](https://duolingo.com)
 
 ### Games
-- [NationStates](nationstates.net)
-- [Minesweeper.Online](minesweeper.online)
-- [DOS Zone](dos.zone)
+- [NationStates](https://nationstates.net)
+- [Minesweeper.Online](https://minesweeper.online)
+- [DOS Zone](https>://dos.zone)
